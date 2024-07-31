@@ -1,0 +1,5 @@
+-r requirements.txt
+ruff
+debugpy
+ipython
+django-debug-toolbar==4.4.6
